@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil ❤️
 
 
-Meu nome é Maria Cristina
+Meu nome é Maria Cristina 🦋
 
 - Tecnologia Robótica [Alura](https://www.alura.com.br)
 - Desenvolvendo Projetos na Linguagem de JavaScript
